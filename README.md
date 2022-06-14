@@ -16,9 +16,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -83,7 +80,7 @@ Before you continue, ensure you meet the following requirements
      ```   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 # Usage
 To see our work
 
@@ -95,5 +92,22 @@ To see our work
 3. Using the same menthod on stronger model:
 * FGSM: https://github.com/nokiddig/IT5-FTW/blob/main/MobilenetV2FGSM.py
 * PGD: https://github.com/nokiddig/IT5-FTW/blob/main/MobilenetV2PGD.py
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+# Contact
+
+Lê Văn Sỹ - [@nokiddig](https://www.facebook.com/SyLV224)
+
+Project Link: [https://github.com/nokiddig/IT5-FTW](https://github.com/nokiddig/IT5-FTW)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+# Acknowledgments
+* [Traffic Sign Classify](https://tek4.vn/nhan-dien-bien-bao-giao-thong-bang-cnn-keras)
+* [Adversarial Attacks](https://github.com/SConsul/Adversarial_Attacks)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
