@@ -85,11 +85,11 @@ Before you continue, ensure you meet the following requirements
 To see our work
 
 1. Our Traffic Sign Classification model: https://github.com/nokiddig/IT5-FTW/blob/main/traffic_sign_classify.ipynb
-2. Try some attack menthod on our model:
+2. Try some attack method on our model:
 * FGSM: https://github.com/nokiddig/IT5-FTW/blob/main/MyModelFGSM2.py
 * PGD: https://github.com/nokiddig/IT5-FTW/blob/main/MyModelPGD.py
 * Data Poisoning: 
-3. Using the same menthod on stronger model:
+3. Using the same method on MobileNetV2:
 * FGSM: https://github.com/nokiddig/IT5-FTW/blob/main/MobilenetV2FGSM.py
 * PGD: https://github.com/nokiddig/IT5-FTW/blob/main/MobilenetV2PGD.py
 
