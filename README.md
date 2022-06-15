@@ -70,10 +70,6 @@ Before you continue, ensure you meet the following requirements
      ```sh
      pip install pathlib
      ```
-  * Pathlib
-     ```sh
-     pip install pathlib
-     ``` 
   * Glob
      ```sh
      conda install -c anaconda glob2
